@@ -2,7 +2,64 @@
   
 ## Hi there, this is [Swastik Roy Choudhury](https://about.me/swastikroychoudhury)!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Electronics+%26+Communication+Engineering;Full+Stack+Web+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="940" height="220" viewBox="0 0 940 220" role="img" aria-label="Welcome to my GitHub Profile neon">
+  <defs>
+    <filter id="neonGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur1"/>
+      <feColorMatrix in="blur1" type="matrix"
+        values="0.66 0 0 0 0.66
+                0 0.99 0 0 0.99
+                0 0 0.99 0 0.99
+                0 0 0 1 0" result="glowColor"/>
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2.5" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="glowColor"/>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="strokeShadow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1.2" result="sblur"/>
+      <feOffset dx="0" dy="1" result="off"/>
+      <feComposite in="off" in2="sblur" operator="in" result="sh"/>
+      <feMerge>
+        <feMergeNode in="sh"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect width="100%" height="100%" fill="transparent"/>
+
+  <g filter="url(#neonGlow)" font-family="Fira Code, 'Fira Mono', monospace" text-anchor="middle">
+    <text x="470" y="40" font-size="28" font-weight="700" fill="#C9C9C9" stroke="#ffffff" stroke-width="0.6">
+      <tspan>Welcome to my GitHub Profile!</tspan>
+    </text>
+
+    <text x="470" y="80" font-size="20" fill="#C0C0C0" stroke="#dfefff" stroke-width="0.35">
+      <tspan>Electronics &amp; Communication Engineering</tspan>
+    </text>
+
+    <text x="470" y="112" font-size="20" fill="#C0C0C0" stroke="#dfefff" stroke-width="0.35">
+      <tspan>Full Stack Web Developer</tspan>
+    </text>
+
+    <text x="470" y="144" font-size="20" fill="#C0C0C0" stroke="#dfefff" stroke-width="0.35">
+      <tspan>AI &amp; ML Enthusiast</tspan>
+    </text>
+
+    <text x="470" y="176" font-size="18" fill="#BFBFBF" stroke="#e9ffff" stroke-width="0.25">
+      <tspan>Always Learning New Technologies!</tspan>
+    </text>
+  </g>
+
+  <g filter="url(#strokeShadow)">
+    <text x="470" y="40" font-size="28" font-weight="700" fill="transparent">Welcome to my GitHub Profile!</text>
+  </g>
+</svg>
+
 
 </div>
 
