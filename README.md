@@ -26,7 +26,7 @@
 
 ## 🌟 About Me
 
-🎓 **B.Tech ECE Student (2025)** | 💻 **Full Stack Developer** | 🤖 **AI/ML Enthusiast** | 🚀 **Tech Innovator**
+🎓 **B.Tech ECE Student (2025)** | 💻 **Full Stack Developer** | 🤖 **AI/ML Enthusiast** 
 
 </div>
 
@@ -129,8 +129,8 @@
 
 | Skill Category | Level | Progress | Experience |
 |:---|:---:|:---:|:---:|
-| 💻 **Programming** | Intermediate | `████████████████████░` | 1+ Years |
-| 🌐 **Web Development** | Intermediate | `█████████████████░░░` | 2+ Years |
+| 💻 **Programming** | Intermediate | `███████████████░░░░░` | 1+ Years |
+| 🌐 **Web Development** | Intermediate | `████████████████░░░░` | 2+ Years |
 | 🤖 **AI/ML** | Intermediate | `███████████████░░░░░` | 1+ Year |
 | ⚡ **Electronics** | Intermediate | `████████████████░░░░` | 3+ Years |
 
@@ -146,7 +146,7 @@
 
 <img src="https://img.shields.io/badge/🎓-Harvard_CS50-crimson?style=for-the-badge&logoColor=white" alt="Harvard CS50"/>
 <img src="https://img.shields.io/badge/🚀-Infosys_Certified-blue?style=for-the-badge&logoColor=white" alt="Infosys Certified"/>
-<img src="https://img.shields.io/badge/🏅-HackerRank_Gold-gold?style=for-the-badge&logoColor=black" alt="HackerRank Gold"/>
+<img src="https://img.shields.io/badge/🏅-HackerRank_Gold-gold?style=for-the-badge&logoColor=black" alt="HackerRank"/>
 <img src="https://img.shields.io/badge/🛰️-ISRO_Certified-orange?style=for-the-badge&logoColor=white" alt="ISRO Certified"/>
 
 </div>
@@ -348,7 +348,7 @@
 <div align="center">
 
 <a href="https://linktr.ee/swastikroychoudhury" target="_blank">
-  <img src="https://img.shields.io/badge/🌲_All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="All Links"/>
+  <img src="https://img.shields.io/badge/🌲_All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Lintree"/>
 </a>
 <a href="https://linkedin.com/in/swastikroychoudhury" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
