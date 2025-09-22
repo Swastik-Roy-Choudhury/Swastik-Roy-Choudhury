@@ -2,8 +2,7 @@
   
 ## Hi there, this is [Swastik Roy Choudhury](https://about.me/swastikroychoudhury)!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E5E4E2&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Electronics+%26+Communication+Engineering;Full+Stack+Web+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=3C1810&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Electronics+%26+Communication+Engineering;Full+Stack+Web+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies!&shadow=true&shadowColor=8B4513&glow=true&glowColor=FF8C00" alt="Typing SVG" />
 <div align="center">
 
 <img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/blob/main/assets/demo.gif" width="800" alt="Hello!"/>
