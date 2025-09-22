@@ -88,7 +88,6 @@
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" alt="PostgreSQL"/>
 </p>
 
 ---
@@ -99,14 +98,6 @@
 
 <table>
 <tr>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
-<br><strong>TensorFlow</strong>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
-<br><strong>PyTorch</strong>
-</td>
 <td align="center" width="140">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
 <br><strong>OpenCV</strong>
@@ -123,8 +114,6 @@
 </table>
 
 <p>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C" alt="PyTorch"/>
 <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" alt="Scikit Learn"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy"/>
@@ -132,15 +121,7 @@
 
 ---
 
-### 🔬 VLSI & Electronics Tools
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/🔬-VLSI%20Design-blueviolet?style=for-the-badge&logoColor=white" alt="VLSI Design"/>
-<img src="https://img.shields.io/badge/📡-RF%20Engineering-orange?style=for-the-badge&logoColor=white" alt="RF Engineering"/>
-<img src="https://img.shields.io/badge/⚡-Circuit%20Analysis-yellow?style=for-the-badge&logoColor=black" alt="Circuit Analysis"/>
-
-</div>
+### 🔬 Electronics Tools
 
 <p>
 <img src="https://img.shields.io/badge/Altair_Feko-FF6B35?style=for-the-badge&logo=altair&logoColor=white&labelColor=FF6B35" alt="Altair Feko"/>
@@ -187,7 +168,6 @@
 <p>
 <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=D83B01" alt="Microsoft Office"/>
 <img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4" alt="Google Workspace"/>
-<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000000" alt="Notion"/>
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC" alt="Canva"/>
 </p>
 
@@ -199,10 +179,10 @@
 
 | **Category** | **Proficiency** | **Experience** |
 |:---:|:---:|:---:|
-| **Programming** | ![90%](https://progress-bar.dev/90?title=Expert&width=120&color=00ff00) | 3+ Years |
+| **Programming** | ![90%](https://progress-bar.dev/90?title=Expert&width=120&color=00ff00) | 1+ Years |
 | **Web Development** | ![85%](https://progress-bar.dev/85?title=Advanced&width=120&color=0080ff) | 2+ Years |
 | **AI/ML** | ![75%](https://progress-bar.dev/75?title=Intermediate&width=120&color=ff8000) | 1+ Year |
-| **Electronics** | ![80%](https://progress-bar.dev/80?title=Advanced&width=120&color=0080ff) | 2+ Years |
+| **Electronics** | ![80%](https://progress-bar.dev/80?title=Advanced&width=120&color=0080ff) | 3+ Years |
 
 </div>
 
