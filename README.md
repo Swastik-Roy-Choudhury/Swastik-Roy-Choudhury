@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/assets/176966680/demo.gif" width="800" alt="Hello!"/>
+<img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/blob/main/assets/demo.gif" width="800" alt="Hello!"/>
 
 </div>
 
@@ -19,14 +19,6 @@
 ## 🌟 About Me
 
 🎓 **B.Tech ECE Student (2025)** | 💻 **Full Stack Developer** | 🤖 **AI/ML Enthusiast** | 🚀 **Tech Innovator**
-
-```
-🌱 Currently Learning: AI/ML, Full Stack Development.
-💡 Interests: Web Development, Data Science, Open Source
-🎯 Goals: Contribute to Open Source & Build Impactful AI Projects
-📍 Location: India
-📊 CGPA: 8.5/10
-```
 
 </div>
 
