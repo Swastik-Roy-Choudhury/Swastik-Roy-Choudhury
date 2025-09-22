@@ -84,44 +84,6 @@
 
 ---
 
-### 🤖 Machine Learning & AI
-
-<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="AI/ML Skills" />
-
-<table>
-<tr>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
-<br><strong>OpenCV</strong>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
-<br><strong>Pandas</strong>
-</td>
-<td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
-<br><strong>NumPy</strong>
-</td>
-</tr>
-</table>
-
-<p>
-<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" alt="Scikit Learn"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy"/>
-</p>
-
----
-
-### 🔬 Electronics Tools
-
-<p>
-<img src="https://img.shields.io/badge/Altair_Feko-FF6B35?style=for-the-badge&logo=altair&logoColor=white&labelColor=FF6B35" alt="Altair Feko"/>
-<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8" alt="MATLAB"/>
-</p>
-
----
-
 ### 🛠️ Development Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Development Tools" />
@@ -381,24 +343,12 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 I'm currently working on **Intelligent Multi-lingual Document Understanding.**
-- 🌱 I'm currently learning **Machine Learning**
-- 👯 I'm looking to collaborate on **AI/ML Projects and Full-Stack Applications**
-- 🤔 I'm looking for help with **Data Science**
-- 💬 Ask me about **Web Development, Electronics, Python, Java**
-- 📫 How to reach me: **https://linktr.ee/swastikroychoudhury**
-- ⚡ Fun fact: **I love combining electronics with software to create innovative solutions!**
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
 
-<a href="https://bio.link/swastikroychoudhury" target="_blank">
-  <img src="https://img.shields.io/badge/Bio_Link-000000?style=for-the-badge&logo=linktree&logoColor=white" alt="Bio Link"/>
+<a href="https://linktr.ee/swastikroychoudhury" target="_blank">
+  <img src="https://img.shields.io/badge/🌲_All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="All Links"/>
 </a>
 <a href="https://linkedin.com/in/swastikroychoudhury" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -406,30 +356,6 @@
 <a href="mailto:roychoudhuryswastik@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
-
-</div>
-
----
-
-## 🏅 Skills & Interests
-
-<div align="center">
-
-### 💻 Technical Skills
-- **Programming**: Java, Python, HTML, CSS, JavaScript, PHP, Verilog HDL
-- **Specialization**: Data Structures & Algorithms, OOPs, Electronics Design
-- **Databases**: MySQL, MongoDB
-- **Tools**: VS Code, GitHub, Microsoft Office, Google Workspace
-- **Domain**: Full-Stack Development, AI/ML, VLSI Design, Antenna Engineering
-
-### 🎨 Soft Skills & Interests
-- **Professional**: Time Management, Leadership, Problem Solving, Communication, Adaptability
-- **Personal**: Writing ✍️, Swimming 🏊‍♂️, Sports ⚽, Painting 🎨
-
-### 🌍 Languages
-- **English**: Working Proficiency
-- **Bengali**: Native Proficiency  
-- **Hindi**: Limited Proficiency
 
 </div>
 
