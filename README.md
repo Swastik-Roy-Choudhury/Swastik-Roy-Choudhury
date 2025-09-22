@@ -1,13 +1,21 @@
 <div align="center">
-  
-# 👋 Hi there, I'm 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Swastik+Roy+Choudhury" alt="Name" />
 
-### 🌟 *Welcome to my digital universe!* 🌟
+# 🎯 Hey There! 
+## I'm **[Swastik Roy Choudhury](https://about.me/swastikroychoudhury)** 
 
-[![About Me](https://custom-icon-badges.demolab.com/badge/About%20Me-purple?style=for-the-badge&logo=person&logoColor=white)](https://about.me/swastikroychoudhury)
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Subtitle" />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=swastikroychoudhury&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/swastikroychoudhury?style=for-the-badge&color=orange&labelColor=ce4630" alt="Followers"/>
+</p>
+
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white)](https://about.me/swastikroychoudhury)
+[![Email](https://img.shields.io/badge/📧_Let's_Connect-D14836?style=for-the-badge&logoColor=white)](mailto:roychoudhuryswastik@gmail.com)
 
 </div>
+
+---
 
 <div align="center">
 
