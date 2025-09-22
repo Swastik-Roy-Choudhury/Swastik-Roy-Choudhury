@@ -362,9 +362,8 @@
 
 <div align="center">
 
-> "Your love makes me strong, your hate makes me unstoppable." - Cristiano Ronaldo
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+⚡ ***"Your love makes me strong, your hate makes me unstoppable."*** ⚡  
+**— Cristiano Ronaldo** 🐐
 
 </div>
 
