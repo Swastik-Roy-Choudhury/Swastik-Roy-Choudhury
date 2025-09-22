@@ -67,12 +67,10 @@
 
 ### 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" alt="Frontend Skills" />
+<img src="https://skillicons.dev/icons?i=react,bootstrap,figma&theme=dark" alt="Frontend Skills" />
 
 <p>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699" alt="Sass"/>
 <img src="https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=css3&logoColor=white&labelColor=02569B" alt="Responsive Design"/>
 </p>
 
@@ -80,11 +78,9 @@
 
 ### ⚡ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Backend Skills" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Backend Skills" />
 
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
 </p>
@@ -124,9 +120,6 @@
 
 <p>
 <img src="https://img.shields.io/badge/Altair_Feko-FF6B35?style=for-the-badge&logo=altair&logoColor=white&labelColor=FF6B35" alt="Altair Feko"/>
-<img src="https://img.shields.io/badge/CST_Studio-0066CC?style=for-the-badge&logo=comsol&logoColor=white&labelColor=0066CC" alt="CST Studio"/>
-<img src="https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=for-the-badge&logo=ansys&logoColor=white&labelColor=FFB71B" alt="Ansys HFSS"/>
-<img src="https://img.shields.io/badge/Verilog_HDL-4B0082?style=for-the-badge&logo=v&logoColor=white&labelColor=4B0082" alt="Verilog"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8" alt="MATLAB"/>
 </p>
 
@@ -157,7 +150,6 @@
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code"/>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman"/>
 </p>
 
 ---
@@ -233,42 +225,6 @@
 <div align="center">
   
 <img src="https://github-profile-trophy.vercel.app/?username=Swastik-Roy-Choudhury&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
----
-
-## 🔥 Featured Projects
-
-<div align="center">
-
-### 🌦️ Weather App
-**Tech Stack**: HTML5, CSS3, JavaScript, OpenWeatherMap API  
-**Features**: Responsive design, Dynamic UI updates, Real-time weather data, Error handling
-- Live weather forecasts with location-based data
-- Clean, intuitive user interface
-- Cross-platform compatibility
-
-### 🛒 FutureCart: AI-Driven Demand Prediction
-**Tech Stack**: Python, Machine Learning, Time Series Analysis  
-**Duration**: Nov 2024 - Jan 2025 (Infosys Springboard 5.0)
-- Advanced demand forecasting using ML algorithms
-- Statistical analysis and data visualization
-- Retail optimization through predictive analytics
-
-### 📡 Modal Analysis of Defected Ground Plane In Antenna
-**Tech Stack**: Altair Feko, CST Microwave Studio, Ansys HFSS  
-**Duration**: July 2024 - June 2025 (Final Year Project)
-- Electromagnetic simulation and antenna design
-- Bandwidth and radiation pattern optimization
-- Advanced RF/Microwave engineering concepts
-
-### 💻 Frontend Projects Portfolio
-**Tech Stack**: HTML, CSS, JavaScript, PHP, MySQL, Bootstrap  
-**Duration**: May 2022 - July 2025
-- E-Portfolio, Blogging Platform, E-commerce Sites
-- Restaurant, Gaming, Education, Chatbot Websites
-- Responsive design and interactive elements
 
 </div>
 
@@ -405,50 +361,6 @@
 
 ---
 
-## 🎓 Education & Achievements
-
-<div align="center">
-
-### 🏫 Education
-- **B.Tech in Electronics & Communication Engineering** (2021-2025)  
-  RCC Institute of Information Technology | **CGPA: 8.5**
-- **Class XII (AISSCE)** - 96.60% | Aditya Academy (2020-2021)
-- **Class X (AISSE)** - 97.20% | Aditya Academy (2018-2019)
-
-### 🏆 Certifications & Achievements
-- **CS50AI, CS50P, CS50x, CS50 SQL** - Harvard University
-- **Data Analysis with Python** - freeCodeCamp.org
-- **AI Primer, Principles of Gen AI** - Infosys SpringBoard 5.0
-- **Java Programming | DSA** - Infosys Springboard 6.0
-- **Smart India Hackathon 2023** Participant
-- **Global Navigation Satellite System** - ISRO
-- **HackerRank** - Basic SQL, Java Certifications
-- **edX** - Game Development
-</div>
-
----
-
-## 💼 Experience & Internships
-
-<div align="center">
-
-### 🤖 Artificial Intelligence Intern
-**Infosys Springboard 5.0** | Oct-Dec 2024 (2 Months)
-
-### 🌐 Web Development Intern  
-**Indian Institute of Internship** | Jul-Aug 2024 (2 Months)
-
-### 📊 Data Science Intern
-**Sabudh Foundation** | July - Dec 2025 (6 Months)
-
-### 🔧 Industrial Training
-- **VLSI SoC Design** - Maven Silicon (June-July 2024)
-- **Full-Stack Web Development** - NIIT (July-August 2024)
-
-</div>
-
----
-
 ## 📈 Profile Views & Followers
 
 <div align="center">
@@ -530,17 +442,6 @@
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Roy-Choudhury&theme=radical&hide_border=false&stroke=0000&background=060A0CD0" alt="GitHub Streak Stats"/>
-
-</div>
-
----
-
-## 🎖️ Volunteer Work
-
-<div align="center">
-
-- **Voice of SAP** | Oct-Nov 2024
-- **MyGov Pledges** | Oct-Nov 2024
 
 </div>
 
