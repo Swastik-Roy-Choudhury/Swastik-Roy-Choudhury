@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Hello, I'm Swastik Roy Choudhury!
+## Hi there, this is [Swastik Roy Choudhury](https://about.me/swastikroychoudhury)!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Electronics+%26+Communication+Engineering;Full+Stack+Web+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/blob/main/assets/demo.gif" width="900" alt="Hello!"/>
+<img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/blob/main/assets/demo.gif" width="800" alt="Hello!"/>
 
 </div>
 
