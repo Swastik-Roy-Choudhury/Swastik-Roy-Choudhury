@@ -70,7 +70,6 @@
 <img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" alt="Frontend Skills" />
 
 <p>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=61DAFB" alt="React"/>
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind"/>
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699" alt="Sass"/>
@@ -179,10 +178,110 @@
 
 | **Category** | **Proficiency** | **Experience** |
 |:---:|:---:|:---:|
-| **Programming** | ![90%](https://progress-bar.dev/90?title=Expert&width=120&color=00ff00) | 1+ Years |
-| **Web Development** | ![85%](https://progress-bar.dev/85?title=Advanced&width=120&color=0080ff) | 2+ Years |
-| **AI/ML** | ![75%](https://progress-bar.dev/75?title=Intermediate&width=120&color=ff8000) | 1+ Year |
-| **Electronics** | ![80%](https://progress-bar.dev/80?title=Advanced&width=120&color=0080ff) | 3+ Years |
+| **Programming** | ![Programming](https://img.shields.io/badge/Expert-90%25-brightgreen?style=for-the-badge) | 1+ Years |
+| **Web Development** | ![Web Dev](https://img.shields.io/badge/Advanced-85%25-blue?style=for-the-badge) | 2+ Years |
+| **AI/ML** | ![AI/ML](https://img.shields.io/badge/Intermediate-75%25-orange?style=for-the-badge) | 1+ Year |
+| **Electronics** | ![Electronics](https://img.shields.io/badge/Advanced-80%25-blue?style=for-the-badge) | 3+ Years |
+
+</div>
+
+---
+
+### 🎯 Alternative Style - Progress Bars
+
+<div align="center">
+
+**Programming Languages**  
+![Programming](https://geps.dev/progress/90?color=00ff00) **90%** - Expert Level
+
+**Web Development**  
+![Web Development](https://geps.dev/progress/85?color=0080ff) **85%** - Advanced Level
+
+**AI/ML**  
+![AI/ML](https://geps.dev/progress/75?color=ff8000) **75%** - Intermediate Level
+
+**Electronics**  
+![Electronics](https://geps.dev/progress/80?color=0080ff) **80%** - Advanced Level
+
+</div>
+
+---
+
+### 📊 Another Alternative - Simple Badges
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Programming-Expert-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Programming"/>
+<br><strong>90% Proficiency</strong>
+<br><sub>1+ Years Experience</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Web%20Development-Advanced-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev"/>
+<br><strong>85% Proficiency</strong>
+<br><sub>2+ Years Experience</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/AI/ML-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
+<br><strong>75% Proficiency</strong>
+<br><sub>1+ Year Experience</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.shields.io/badge/Electronics-Advanced-blue?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Electronics"/>
+<br><strong>80% Proficiency</strong>
+<br><sub>3+ Years Experience</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🔥 Most Stylish Option - Animated Progress
+
+<div align="center">
+
+**💻 Programming Languages**
+```
+████████████████████████████████████████████████████████████████████████████████████████████████ 90%
+```
+
+**🌐 Web Development**
+```
+██████████████████████████████████████████████████████████████████████████████████████████ 85%
+```
+
+**🤖 AI/ML**
+```
+████████████████████████████████████████████████████████████████████████████ 75%
+```
+
+**⚡ Electronics**
+```
+████████████████████████████████████████████████████████████████████████████████████ 80%
+```
+
+</div>
+
+---
+
+### 🏆 Clean & Professional Version
+
+<div align="center">
+
+| Skill Category | Level | Progress | Experience |
+|:---|:---:|:---:|:---:|
+| 💻 **Programming** | Expert | `████████████████████░` | 1+ Years |
+| 🌐 **Web Development** | Advanced | `█████████████████░░░` | 2+ Years |
+| 🤖 **AI/ML** | Intermediate | `███████████████░░░░░` | 1+ Year |
+| ⚡ **Electronics** | Advanced | `████████████████░░░░` | 3+ Years |
+
+**Legend:** `█ = 5%` `░ = Empty`
 
 </div>
 
