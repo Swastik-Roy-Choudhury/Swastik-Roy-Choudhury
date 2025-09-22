@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/blob/main/assets/demo.gif" width="600" alt="Hello!"/>
+<img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/blob/main/assets/demo.gif" width="900" alt="Hello!"/>
 
 </div>
 
@@ -159,10 +159,10 @@
 
 | Skill Category | Level | Progress | Experience |
 |:---|:---:|:---:|:---:|
-| 💻 **Programming** | Expert | `████████████████████░` | 1+ Years |
-| 🌐 **Web Development** | Advanced | `█████████████████░░░` | 2+ Years |
+| 💻 **Programming** | Intermediate | `████████████████████░` | 1+ Years |
+| 🌐 **Web Development** | Intermediate | `█████████████████░░░` | 2+ Years |
 | 🤖 **AI/ML** | Intermediate | `███████████████░░░░░` | 1+ Year |
-| ⚡ **Electronics** | Advanced | `████████████████░░░░` | 3+ Years |
+| ⚡ **Electronics** | Intermediate | `████████████████░░░░` | 3+ Years |
 
 **Legend:** `█ = 5%` `░ = Empty`
 
@@ -374,10 +374,10 @@
 
 ## 🎯 Current Focus
 
-- 🔭 I'm currently working on **AI-Driven Demand Prediction & Antenna Design**
-- 🌱 I'm currently learning **Advanced Machine Learning and VLSI Design**
+- 🔭 I'm currently working on **Intelligent Multi-lingual Document Understanding.**
+- 🌱 I'm currently learning **Machine Learning**
 - 👯 I'm looking to collaborate on **AI/ML Projects and Full-Stack Applications**
-- 🤔 I'm looking for help with **Advanced Deep Learning Concepts**
+- 🤔 I'm looking for help with **Data Science**
 - 💬 Ask me about **Web Development, Electronics, Python, Java**
 - 📫 How to reach me: **https://linktr.ee/swastikroychoudhury**
 - ⚡ Fun fact: **I love combining electronics with software to create innovative solutions!**
