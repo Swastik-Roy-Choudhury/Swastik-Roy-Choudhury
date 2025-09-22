@@ -1,12 +1,11 @@
 <div align="center">
+  
+# 👋 Hi there, I'm 
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=48&duration=2000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Swastik+Roy+Choudhury" alt="Name" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+### 🌟 *Welcome to my digital universe!* 🌟
 
-<h2>👋 I'm <a href="https://about.me/swastikroychoudhury" style="text-decoration: none;">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=350&lines=Swastik+Roy+Choudhury" alt="Name" />
-</a></h2>
-
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c6.gif" width="100">
+[![About Me](https://custom-icon-badges.demolab.com/badge/About%20Me-purple?style=for-the-badge&logo=person&logoColor=white)](https://about.me/swastikroychoudhury)
 
 </div>
 
