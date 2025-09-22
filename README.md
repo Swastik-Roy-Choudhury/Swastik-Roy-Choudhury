@@ -1,6 +1,5 @@
 <div align="center">
-
-<img width="100%" src="https://capsulerender.vercel.app/apitype=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <h1>
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=I'm+Swastik+Roy+Choudhury;Welcome+to+my+Profile!;Let's+Connect!" />
