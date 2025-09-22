@@ -65,18 +65,7 @@
 
 ---
 
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=react,bootstrap,figma&theme=dark" alt="Frontend Skills" />
-
-<p>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap"/>
-<img src="https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=css3&logoColor=white&labelColor=02569B" alt="Responsive Design"/>
-</p>
-
----
-
-### ⚡ Backend & Databases
+### ⚡ Databases
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Backend Skills" />
 
@@ -89,7 +78,7 @@
 
 ### 🤖 Machine Learning & AI
 
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML Skills" />
+<img src="https://skillicons.dev/icons?i=opencv&theme=dark" alt="AI/ML Skills" />
 
 <table>
 <tr>
@@ -127,7 +116,7 @@
 
 ### 🛠️ Development Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws&theme=dark" alt="Development Tools" />
+<img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Development Tools" />
 
 <table>
 <tr>
@@ -390,7 +379,7 @@
 - 👯 I'm looking to collaborate on **AI/ML Projects and Full-Stack Applications**
 - 🤔 I'm looking for help with **Advanced Deep Learning Concepts**
 - 💬 Ask me about **Web Development, Electronics, Python, Java**
-- 📫 How to reach me: **roychoudhuryswastik@gmail.com**
+- 📫 How to reach me: **https://linktr.ee/swastikroychoudhury**
 - ⚡ Fun fact: **I love combining electronics with software to create innovative solutions!**
 
 ---
@@ -419,7 +408,7 @@
 
 ### 💻 Technical Skills
 - **Programming**: Java, Python, HTML, CSS, JavaScript, PHP, Verilog HDL
-- **Specialization**: Data Structures & Algorithms, OOP, Electronics Design
+- **Specialization**: Data Structures & Algorithms, OOPs, Electronics Design
 - **Databases**: MySQL, MongoDB
 - **Tools**: VS Code, GitHub, Microsoft Office, Google Workspace
 - **Domain**: Full-Stack Development, AI/ML, VLSI Design, Antenna Engineering
