@@ -1,6 +1,16 @@
 <div align="center">
-  
-## Hi there, this is [Swastik Roy Choudhury](https://about.me/swastikroychoudhury)!
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20there!&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<h2>👋 I'm <a href="https://about.me/swastikroychoudhury" style="text-decoration: none;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=350&lines=Swastik+Roy+Choudhury" alt="Name" />
+</a></h2>
+
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b24953c6.gif" width="100">
+
+</div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Electronics+%26+Communication+Engineering;Full+Stack+Web+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
 
