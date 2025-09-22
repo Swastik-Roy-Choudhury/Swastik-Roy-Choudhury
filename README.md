@@ -6,6 +6,12 @@
 
 </div>
 
+<div align="center">
+
+<img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/assets/176966680/demo.gif" width="800" alt="Hello!"/>
+
+</div>
+
 ---
 
 <div align="center">
@@ -73,20 +79,20 @@
 
 <div align="center">
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=swastikroychoudhury&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swastikroychoudhury&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swastik-Roy-Choudhury&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Roy-Choudhury&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swastikroychoudhury&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Roy-Choudhury&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats"/>
 
 </div>
 
 <div align="center">
   
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=swastikroychoudhury&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=FDFEFE&title_color=FDFEFE&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Swastik-Roy-Choudhury&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=FDFEFE&title_color=FDFEFE&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
