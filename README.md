@@ -146,7 +146,7 @@
 
 <img src="https://img.shields.io/badge/🎓-Harvard_CS50-crimson?style=for-the-badge&logoColor=white" alt="Harvard CS50"/>
 <img src="https://img.shields.io/badge/🚀-Infosys_Certified-blue?style=for-the-badge&logoColor=white" alt="Infosys Certified"/>
-<img src="https://img.shields.io/badge/🏅-HackerRank_Gold-gold?style=for-the-badge&logoColor=black" alt="HackerRank"/>
+<img src="https://img.shields.io/badge/🏅-HackerRank-gold?style=for-the-badge&logoColor=black" alt="HackerRank"/>
 <img src="https://img.shields.io/badge/🛰️-ISRO_Certified-orange?style=for-the-badge&logoColor=white" alt="ISRO Certified"/>
 
 </div>
