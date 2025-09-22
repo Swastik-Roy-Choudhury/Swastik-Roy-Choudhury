@@ -1,19 +1,23 @@
 <div align="center">
 
-# 🎯 Hey There! 
-## I'm **[Swastik Roy Choudhury](https://about.me/swastikroychoudhury)** 
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:667eea,100:764ba2&height=150&section=header&text=Hi%20there!%20👋&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=800&color=FF6B6B&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Welcome+to+my+GitHub+Profile!;Let's+build+something+amazing+together!" alt="Subtitle" />
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=I'm+Swastik+Roy+Choudhury;Welcome+to+my+Profile!;Let's+Connect!" />
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swastikroychoudhury&style=for-the-badge&color=blueviolet" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/swastikroychoudhury?style=for-the-badge&color=orange&labelColor=ce4630" alt="Followers"/>
-</p>
+<h3 align="center">🚀 Passionate Developer | 💡 Problem Solver | 🌟 Tech Enthusiast</h3>
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-4285F4?style=for-the-badge&logoColor=white)](https://about.me/swastikroychoudhury)
-[![Email](https://img.shields.io/badge/📧_Let's_Connect-D14836?style=for-the-badge&logoColor=white)](mailto:roychoudhuryswastik@gmail.com)
+<div align="center">
+  <a href="https://about.me/swastikroychoudhury">
+    <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Collaborate-brightgreen?style=for-the-badge" alt="Collaborate"/>
+</div>
 
 </div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ---
 
