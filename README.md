@@ -8,7 +8,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/blob/main/assets/demo.gif" width="800" alt="Hello!"/>
+<img src="https://github.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/blob/main/assets/demo.gif" width="600" alt="Hello!"/>
 
 </div>
 
@@ -173,104 +173,6 @@
 ---
 
 ### 🌟 Skill Level Indicators
-
-<div align="center">
-
-| **Category** | **Proficiency** | **Experience** |
-|:---:|:---:|:---:|
-| **Programming** | ![Programming](https://img.shields.io/badge/Expert-90%25-brightgreen?style=for-the-badge) | 1+ Years |
-| **Web Development** | ![Web Dev](https://img.shields.io/badge/Advanced-85%25-blue?style=for-the-badge) | 2+ Years |
-| **AI/ML** | ![AI/ML](https://img.shields.io/badge/Intermediate-75%25-orange?style=for-the-badge) | 1+ Year |
-| **Electronics** | ![Electronics](https://img.shields.io/badge/Advanced-80%25-blue?style=for-the-badge) | 3+ Years |
-
-</div>
-
----
-
-### 🎯 Alternative Style - Progress Bars
-
-<div align="center">
-
-**Programming Languages**  
-![Programming](https://geps.dev/progress/90?color=00ff00) **90%** - Expert Level
-
-**Web Development**  
-![Web Development](https://geps.dev/progress/85?color=0080ff) **85%** - Advanced Level
-
-**AI/ML**  
-![AI/ML](https://geps.dev/progress/75?color=ff8000) **75%** - Intermediate Level
-
-**Electronics**  
-![Electronics](https://geps.dev/progress/80?color=0080ff) **80%** - Advanced Level
-
-</div>
-
----
-
-### 📊 Another Alternative - Simple Badges
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Programming-Expert-brightgreen?style=for-the-badge&logo=code&logoColor=white" alt="Programming"/>
-<br><strong>90% Proficiency</strong>
-<br><sub>1+ Years Experience</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Web%20Development-Advanced-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Web Dev"/>
-<br><strong>85% Proficiency</strong>
-<br><sub>2+ Years Experience</sub>
-</td>
-</tr>
-<tr>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/AI/ML-Intermediate-orange?style=for-the-badge&logo=tensorflow&logoColor=white" alt="AI/ML"/>
-<br><strong>75% Proficiency</strong>
-<br><sub>1+ Year Experience</sub>
-</td>
-<td align="center" width="200">
-<img src="https://img.shields.io/badge/Electronics-Advanced-blue?style=for-the-badge&logo=circuitverse&logoColor=white" alt="Electronics"/>
-<br><strong>80% Proficiency</strong>
-<br><sub>3+ Years Experience</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-### 🔥 Most Stylish Option - Animated Progress
-
-<div align="center">
-
-**💻 Programming Languages**
-```
-████████████████████████████████████████████████████████████████████████████████████████████████ 90%
-```
-
-**🌐 Web Development**
-```
-██████████████████████████████████████████████████████████████████████████████████████████ 85%
-```
-
-**🤖 AI/ML**
-```
-████████████████████████████████████████████████████████████████████████████ 75%
-```
-
-**⚡ Electronics**
-```
-████████████████████████████████████████████████████████████████████████████████████ 80%
-```
-
-</div>
-
----
-
-### 🏆 Clean & Professional Version
 
 <div align="center">
 
