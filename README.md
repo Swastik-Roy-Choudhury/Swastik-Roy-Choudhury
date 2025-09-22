@@ -28,43 +28,200 @@
 
 <div align="center">
 
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Programming Languages
 
-### Backend & Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,php&theme=dark" alt="Programming Languages" />
 
-### Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
+<br><strong>Java</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="65" height="65" />
+<br><strong>PHP</strong>
+</td>
+</tr>
+</table>
 
-### VLSI & Electronics Tools
-![Altair Feko](https://img.shields.io/badge/Altair_Feko-FF6B35?style=for-the-badge&logo=altair&logoColor=white)
-![CST Studio](https://img.shields.io/badge/CST_Microwave_Studio-0066CC?style=for-the-badge&logo=cst&logoColor=white)
-![Ansys HFSS](https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=for-the-badge&logo=ansys&logoColor=white)
+---
 
-### Tools & Platforms
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Google Workspace](https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white)
+### 🎨 Frontend Development
+
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,figma&theme=dark" alt="Frontend Skills" />
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=20232A&color=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=7952B3" alt="Bootstrap"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=38B2AC" alt="Tailwind"/>
+<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white&labelColor=CC6699" alt="Sass"/>
+<img src="https://img.shields.io/badge/Responsive_Design-02569B?style=for-the-badge&logo=css3&logoColor=white&labelColor=02569B" alt="Responsive Design"/>
+</p>
+
+---
+
+### ⚡ Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb&theme=dark" alt="Backend Skills" />
+
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1" alt="PostgreSQL"/>
+</p>
+
+---
+
+### 🤖 Machine Learning & AI
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=dark" alt="AI/ML Skills" />
+
+<table>
+<tr>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="65" height="65" />
+<br><strong>TensorFlow</strong>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="65" height="65" />
+<br><strong>PyTorch</strong>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" alt="OpenCV" width="65" height="65" />
+<br><strong>OpenCV</strong>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="65" height="65" />
+<br><strong>Pandas</strong>
+</td>
+<td align="center" width="140">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="65" height="65" />
+<br><strong>NumPy</strong>
+</td>
+</tr>
+</table>
+
+<p>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=FF6F00" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=EE4C2C" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white&labelColor=F7931E" alt="Scikit Learn"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white&labelColor=150458" alt="Pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white&labelColor=013243" alt="NumPy"/>
+</p>
+
+---
+
+### 🔬 VLSI & Electronics Tools
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🔬-VLSI%20Design-blueviolet?style=for-the-badge&logoColor=white" alt="VLSI Design"/>
+<img src="https://img.shields.io/badge/📡-RF%20Engineering-orange?style=for-the-badge&logoColor=white" alt="RF Engineering"/>
+<img src="https://img.shields.io/badge/⚡-Circuit%20Analysis-yellow?style=for-the-badge&logoColor=black" alt="Circuit Analysis"/>
 
 </div>
 
+<p>
+<img src="https://img.shields.io/badge/Altair_Feko-FF6B35?style=for-the-badge&logo=altair&logoColor=white&labelColor=FF6B35" alt="Altair Feko"/>
+<img src="https://img.shields.io/badge/CST_Studio-0066CC?style=for-the-badge&logo=comsol&logoColor=white&labelColor=0066CC" alt="CST Studio"/>
+<img src="https://img.shields.io/badge/Ansys_HFSS-FFB71B?style=for-the-badge&logo=ansys&logoColor=white&labelColor=FFB71B" alt="Ansys HFSS"/>
+<img src="https://img.shields.io/badge/Verilog_HDL-4B0082?style=for-the-badge&logo=v&logoColor=white&labelColor=4B0082" alt="Verilog"/>
+<img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=0076A8" alt="MATLAB"/>
+</p>
+
+---
+
+### 🛠️ Development Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=vscode,git,github,docker,aws&theme=dark" alt="Development Tools" />
+
+<table>
+<tr>
+<td align="center" width="120">
+<img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="65" height="65" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="120">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="65" height="65" />
+<br><strong>Git</strong>
+</td>
+</tr>
+</table>
+
+<p>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white&labelColor=FF6C37" alt="Postman"/>
+</p>
+
+---
+
+### 📊 Productivity & Office Tools
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=D83B01" alt="Microsoft Office"/>
+<img src="https://img.shields.io/badge/Google_Workspace-4285F4?style=for-the-badge&logo=google&logoColor=white&labelColor=4285F4" alt="Google Workspace"/>
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white&labelColor=000000" alt="Notion"/>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC" alt="Canva"/>
+</p>
+
+---
+
+### 🌟 Skill Level Indicators
+
+<div align="center">
+
+| **Category** | **Proficiency** | **Experience** |
+|:---:|:---:|:---:|
+| **Programming** | ![90%](https://progress-bar.dev/90?title=Expert&width=120&color=00ff00) | 3+ Years |
+| **Web Development** | ![85%](https://progress-bar.dev/85?title=Advanced&width=120&color=0080ff) | 2+ Years |
+| **AI/ML** | ![75%](https://progress-bar.dev/75?title=Intermediate&width=120&color=ff8000) | 1+ Year |
+| **Electronics** | ![80%](https://progress-bar.dev/80?title=Advanced&width=120&color=0080ff) | 2+ Years |
+
+</div>
+
+---
+
+### 🏆 Tech Certifications & Achievements
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/🎓-Harvard_CS50-crimson?style=for-the-badge&logoColor=white" alt="Harvard CS50"/>
+<img src="https://img.shields.io/badge/🚀-Infosys_Certified-blue?style=for-the-badge&logoColor=white" alt="Infosys Certified"/>
+<img src="https://img.shields.io/badge/🏅-HackerRank_Gold-gold?style=for-the-badge&logoColor=black" alt="HackerRank Gold"/>
+<img src="https://img.shields.io/badge/🛰️-ISRO_Certified-orange?style=for-the-badge&logoColor=white" alt="ISRO Certified"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+</div>
 ---
 
 ## 📊 GitHub Analytics
@@ -323,7 +480,7 @@
 
 ---
 
-## 💡 Random Dev Quote
+## 💡 Quote
 
 <div align="center">
 
@@ -430,7 +587,7 @@
 
 <div align="center">
 
-### ✍️ Random Dev Joke
+### ✍️ Joke
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 </div>
