@@ -10,8 +10,6 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
-
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=8A2BE2&center=true&vCenter=true&width=940&lines=Welcome+to+my+GitHub+Profile!;Electronics+%26+Communication+Engineering;Full+Stack+Web+Developer;AI+%26+ML+Enthusiast;Always+Learning+New+Technologies!" alt="Typing SVG" />
@@ -34,7 +32,6 @@
   
 ## 🛠️ Tech Stack & Tools
 
-</div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -112,7 +109,10 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
+<div align="center">
+  
 ### 📊 Productivity & Office Tools
 
 <p>
@@ -121,11 +121,13 @@
 <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white&labelColor=00C4CC" alt="Canva"/>
 </p>
 
+</div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-### 🌟 Skill Level Indicators
-
 <div align="center">
+  
+### 🌟 Skill Level Indicators
 
 | Skill Category | Level | Progress | Experience |
 |:---|:---:|:---:|:---:|
@@ -138,11 +140,12 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
 
 ### 🏆 Tech Certifications & Achievements
 
-<div align="center">
 
 <img src="https://img.shields.io/badge/🎓-Harvard_CS50-crimson?style=for-the-badge&logoColor=white" alt="Harvard CS50"/>
 <img src="https://img.shields.io/badge/🚀-Infosys_Certified-blue?style=for-the-badge&logoColor=white" alt="Infosys Certified"/>
@@ -155,10 +158,9 @@
 
 </div>
 
-
-## 📊 GitHub Analytics
-
 <div align="center">
+  
+## 📊 GitHub Analytics
   
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Swastik-Roy-Choudhury&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swastik-Roy-Choudhury&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/>
@@ -182,9 +184,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🏆 GitHub Trophies
-
 <div align="center">
+  
+## 🏆 GitHub Trophies
   
 <img src="https://github-profile-trophy.vercel.app/?username=Swastik-Roy-Choudhury&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
@@ -192,9 +194,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 💡 Quote
-
 <div align="center">
+  
+## 💡 Quote
 
 ⚡ ***"Your love makes me strong, your hate makes me unstoppable."*** ⚡  
 **— Cristiano Ronaldo** 🐐
@@ -203,9 +205,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🌐 Connect With Me
-
 <div align="center">
+  
+## 🌐 Connect With Me
 
 <a href="https://linktr.ee/swastikroychoudhury" target="_blank">
   <img src="https://img.shields.io/badge/🌲_All_Links-39E09B?style=for-the-badge&logo=linktree&logoColor=white" alt="Lintree"/>
@@ -221,7 +223,9 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-## 🔥 Streak Stats
+<div align="center">
+  ## 🔥 Streak Stats
+</div>
 
 <div align="center">
 
@@ -247,6 +251,4 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
