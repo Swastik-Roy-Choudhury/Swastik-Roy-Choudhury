@@ -166,10 +166,13 @@
 </div>
 
 <div align="center">
-  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Swastik-Roy-Choudhury&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats"/>
+
+## 🔥 GitHub Streak Stats
+
+<img src="https://streak-stats.demolab.com/?user=Swastik-Roy-Choudhury&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=F85D7F&fire=F85D7F&currStreakLabel=F85D7F" alt="GitHub Streak Stats"/>
 
 </div>
+
 
 <div align="center">
   
