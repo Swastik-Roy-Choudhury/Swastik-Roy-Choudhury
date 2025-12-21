@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=I'm+Swastik+Roy+Choudhury;Welcome+to+my+Profile!;Let's+Connect!" />
 </h1>
 
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -29,9 +28,41 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
+
+## 📊 Repository Statistics
+
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Swastik-Roy-Choudhury&query=$.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=2ea44f&labelColor=000000" alt="Public Repositories"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Swastik-Roy-Choudhury&query=$.total_private_repos&style=for-the-badge&logo=github&label=Private%20Repos&color=blue&labelColor=000000" alt="Private Repositories"/>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Swastik-Roy-Choudhury&query=$.followers&style=for-the-badge&logo=github&label=Followers&color=orange&labelColor=000000" alt="Followers"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Swastik-Roy-Choudhury&query=$.following&style=for-the-badge&logo=github&label=Following&color=purple&labelColor=000000" alt="Following"/>
+</td>
+</tr>
+</table>
+
+### 📈 Repository Overview
+
+<img src="https://img.shields.io/badge/Total%20Stars-⭐-yellow?style=for-the-badge" alt="Total Stars"/>
+<img src="https://img.shields.io/github/stars/Swastik-Roy-Choudhury?affiliations=OWNER&style=for-the-badge&logo=github&label=Stars%20Earned&color=yellow&labelColor=000000" alt="Stars Earned"/>
+<img src="https://img.shields.io/github/forks/Swastik-Roy-Choudhury?style=for-the-badge&logo=github&label=Total%20Forks&color=blue&labelColor=000000" alt="Total Forks"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
   
 ## 🛠️ Tech Stack & Tools
-
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
@@ -131,7 +162,7 @@
 
 | Skill Category | Level | Progress | Experience |
 |:---|:---:|:---:|:---:|
-| 💻 **Programming** | Intermediate | `███████████████░░░░░` | 1+ Years |
+| 💻 **Programming** | Intermediate | `████████████████░░░░` | 1+ Years |
 | 🌐 **Web Development** | Intermediate | `████████████████░░░░` | 2+ Years |
 | 🤖 **AI/ML** | Intermediate | `███████████████░░░░░` | 1+ Year |
 | ⚡ **Electronics** | Intermediate | `████████████████░░░░` | 3+ Years |
@@ -146,11 +177,39 @@
 
 ### 🏆 Tech Certifications & Achievements
 
-
 <img src="https://img.shields.io/badge/🎓-Harvard_CS50-crimson?style=for-the-badge&logoColor=white" alt="Harvard CS50"/>
 <img src="https://img.shields.io/badge/🚀-Infosys_Certified-blue?style=for-the-badge&logoColor=white" alt="Infosys Certified"/>
 <img src="https://img.shields.io/badge/🏅-HackerRank-gold?style=for-the-badge&logoColor=black" alt="HackerRank"/>
 <img src="https://img.shields.io/badge/🛰️-ISRO_Certified-orange?style=for-the-badge&logoColor=white" alt="ISRO Certified"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Swastik-Roy-Choudhury/Swastik-Roy-Choudhury/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## ⏰ Coding Activity & Time
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@Swastik&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866&layout=compact" alt="WakaTime Stats"/>
+
+### 📅 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -175,10 +234,21 @@
 
 </div>
 
-
 <div align="center">
   
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Swastik-Roy-Choudhury&custom_title=Contribution%20Graph&bg_color=0D1117&color=F85D7F&line=F85D7F&point=FFFFFF&area_color=FDFEFE&title_color=FDFEFE&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
+## 🎯 Pinned Repositories
+
+<a href="https://github.com/Swastik-Roy-Choudhury">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Swastik-Roy-Choudhury&repo=YOUR-REPO-NAME&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+</a>
 
 </div>
 
@@ -195,11 +265,22 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 <div align="center">
+
+## 🎭 Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
   
 ## 💡 Quote
 
 ⚡ ***"Your love makes me strong, your hate makes me unstoppable."*** ⚡  
-**— Cristiano Ronaldo** 🐐
+**— Cristiano Ronaldo** ⚽
 
 </div>
 
@@ -246,9 +327,20 @@
 
 <div align="center">
 
+## 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Swastik-Roy-Choudhury&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<div align="center">
+
 ### 💖 Thanks for Visiting!
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 </div>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
